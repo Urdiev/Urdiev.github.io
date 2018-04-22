@@ -1,18 +1,19 @@
 * {margin: 0; padding: 0;}
 
-
 .tree ul {
 	padding-top: 20px; position: relative;
+	
 	transition: all 0.5s;
 	-webkit-transition: all 0.5s;
 	-moz-transition: all 0.5s;
 }
 
 .tree li {
-	float: center; text-align: center;
+	float: left; text-align: center;
 	list-style-type: none;
 	position: relative;
-	padding: 20px 5px 0 5px;	
+	padding: 20px 5px 0 5px;
+	
 	transition: all 0.5s;
 	-webkit-transition: all 0.5s;
 	-moz-transition: all 0.5s;
@@ -96,4 +97,3 @@ right connector from last child*/
 .tree li a:hover+ul ul::before{
 	border-color:  #94a0b4;
 }
-
