@@ -1,5 +1,8 @@
 * {margin: 0; padding: 0;}
 
+.tree {
+	float: center;
+}
 .tree ul {
 	padding-top: 20px; position: relative;
 	transition: all 0.5s;
@@ -96,6 +99,3 @@ right connector from last child*/
 	border-color:  #94a0b4;
 }
 
-#table {
-	float: center;
-}
