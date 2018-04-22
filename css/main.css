@@ -3,7 +3,7 @@
 .tree ul {
 	padding-top: 20px; 
 	position: relative;
-	margin-left: 25%;
+	
 	transition: all 0.5s;
 	-webkit-transition: all 0.5s;
 	-moz-transition: all 0.5s;
