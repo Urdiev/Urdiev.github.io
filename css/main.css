@@ -1,8 +1,6 @@
 * {margin: 0; padding: 0;}
 
-.tree {
-	float: center;
-}
+
 .tree ul {
 	padding-top: 20px; position: relative;
 	transition: all 0.5s;
