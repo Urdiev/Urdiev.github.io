@@ -95,3 +95,7 @@ right connector from last child*/
 .tree li a:hover+ul ul::before{
 	border-color:  #94a0b4;
 }
+
+#table {
+	float: center;
+}
